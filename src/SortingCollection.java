@@ -13,6 +13,21 @@ public class SortingCollection {
         }
     }
     
+    public static <T extends Comparable<? super T>> void  shellSort(List<T> list){
+        int n = list.size(),j;
+        T temp=null;
+        for (int gap = n/2; gap > 0; gap /= 2){
+            for (int i = gap; i < n; i += 1){
+                temp = list.get(i);
+
+                for (j = i; j >= gap && list.get(j-gap).compareTo(temp)>-1 ; j -= gap)
+                	list.set(j, list.get(j-gap));
+ 
+                list.set(j, temp);
+            }
+        }
+    }
+    
     //Tools
     
     private static <T extends Comparable<? super T>> void flip(List<T> arr, int i){
