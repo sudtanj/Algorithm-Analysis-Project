@@ -37,7 +37,18 @@ public class SortingCollection {
 	   }
 	   bidirectionalBubbleSort(list);
    }
-    
+   
+   public static <T extends Comparable<? super T>> void aviSort(List<T> list) {
+	   int n=list.size()-1,j=0;
+	   for(int i=0;i<(n);i++) {
+		   for (j=0;j<((n-1)-i);j++) 
+			   if(list.get(j).compareTo(list.get(j+2))>-1) 
+				   Collections.swap(list, j, j+2);
+		   if(list.get(j).compareTo(list.get(j+1))>-1) 
+			   Collections.swap(list, j, j+1);
+	   }
+   }
+   
     //Tools
     
     private static <T extends Comparable<? super T>> void bidirectionalBubbleSort(List<T> arr){
