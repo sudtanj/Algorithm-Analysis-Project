@@ -12,3 +12,10 @@ Algorithm Analysis Project at Universitas Pelita Harapan
 ## Paper Report
 <a href="https://goo.gl/QAYD3y"><img src="https://www.orrasis.com/img/google/docs.png" width="100" height="100"/></a>
 
+## Complexity of Pancake Sort Algorithm
+
+## Complexity of Shell Sort Algorithm
+
+## Complexity of Oyelami Sort Algorithm
+
+## Complexity of Avi Sort Algorithm
