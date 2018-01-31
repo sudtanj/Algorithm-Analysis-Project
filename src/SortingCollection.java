@@ -27,9 +27,42 @@ public class SortingCollection {
             }
         }
     }
+   public static <T extends Comparable<? super T>> void oyelamiSort(List<T> list,int size) {
+	   int i=1,j=size-1;
+	   while (i<j) {
+		   if(list.get(i).compareTo(list.get(j))>-1) 
+			   Collections.swap(list, i, j);
+		   i++;
+		   j--;
+	   }
+	   bidirectionalBubbleSort(list);
+   }
     
     //Tools
     
+    private static <T extends Comparable<? super T>> void bidirectionalBubbleSort(List<T> arr){
+       int left = 0, right = arr.size()-1;
+       while (left < right){
+          for (int pos = left; pos < right; pos++)
+          {
+        	 if(arr.get(pos).compareTo(arr.get(pos+1))>-1)
+        		 Collections.swap(arr, pos, pos+1);
+                //swap(pos, pos+1);
+          }
+          right--;
+
+
+          for (int pos = right; pos > left; pos--)
+          {
+        	 if(arr.get(pos).compareTo(arr.get(pos-1))<1)
+        		 Collections.swap(arr, pos, pos-1);
+        		 //if (a[pos] < a[pos-1])
+               //swap(pos, pos-1);
+          }
+          left++;
+       }
+   }  
+
     private static <T extends Comparable<? super T>> void flip(List<T> arr, int i){
         T temp;
 		int start = 0;
