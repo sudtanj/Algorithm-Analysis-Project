@@ -16,7 +16,12 @@ Algorithm Analysis Project at Universitas Pelita Harapan
 ## Complexity of Pancake Sort Algorithm
 ### Pseudocode
 ```pseudo
-
+PancakeFlipper(A[1 · · n])
+if n > 1
+Let k be the index if the largest pancake
+Flip(A[1 · · k])
+Flip(A[1 · · n])
+PancakeFlipper(1 · · n − 1)
 ```
 
 ## Complexity of Shell Sort Algorithm
