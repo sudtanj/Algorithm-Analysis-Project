@@ -48,5 +48,39 @@ foreach (gap in gaps)
 ```
 
 ## Complexity of Oyelami Sort Algorithm
+### Pseudocode
+```pseudo
+Begin
+1. i = 1
+2. j = size
+3. while (i < j) do
+begin
+4. if array[i] > array[j] swap (array, i, j)
+5. i = i + 1
+6. j = j – 1
+end
+[Call Bidirectional Bubble Sort to sort the adjacent elements]
+7. Bidirectional Bubble Sort (A, size:int)
+End
+```
 
 ## Complexity of Avi Sort Algorithm
+### Pseudocode
+```pseudo
+Avi_Sort (A, N)
+//Let A is a linear array with N elements i.e. A [1: N]
+Step 1 Repeat steps 2, 3 and 4 for i = 1 to N-1
+Step2 Repeat step 3 for j = 1 to N-1-i
+Step 3 //Exchange Elements
+if A[j]> A[j+2]
+A[j] ↔ A [j+2]
+//End of if statement
+//End of step 2 for statement
+Step 4 //Exchange Elements
+if A[j]> A[j+1]
+A[j] ↔ A [j+1]
+//End of if statement
+//End of step 1 for statement
+Step 5 Exit
+Fig.
+```
