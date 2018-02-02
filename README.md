@@ -16,6 +16,7 @@ Algorithm Analysis Project at Universitas Pelita Harapan
 ## Pancake Sort Algorithm
 According to wikipedia :
 > <p align="justify"> Pancake sorting is the colloquial term for the mathematical problem of sorting a disordered stack of pancakes in order of size when a spatula can be inserted at any point in the stack and used to flip all pancakes above it. A pancake number is the minimum number of flips required for a given number of pancakes. In this form, the problem was first discussed by American geometer Jacob E. Goodman. It is a variation of the sorting problem in which the only allowed operation is to reverse the elements of some prefix of the sequence. Unlike a traditional sorting algorithm, which attempts to sort with the fewest comparisons possible, the goal is to sort the sequence in as few reversals as possible. A variant of the problem is concerned with burnt pancakes, where each pancake has a burnt side and all pancakes must, in addition, end up with the burnt side on bottom.</p>
+
 ### Pseudocode
 ```pseudo
 PancakeFlipper(A[1 · · n])
@@ -26,7 +27,13 @@ Flip(A[1 · · n])
 PancakeFlipper(1 · · n − 1)
 ```
 
-## Complexity of Shell Sort Algorithm
+## Shell Sort Algorithm
+<table border="0"><tr><td width=300>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Sorting_shellsort_anim.gif" width="300" height="300"/></td>
+    <td>
+<p align="justify"> Shellsort, also known as Shell sort or Shell's method, is an in-place comparison sort. It can be seen as either a generalization of sorting by exchange (bubble sort) or sorting by insertion (insertion sort).[3] The method starts by sorting pairs of elements far apart from each other, then progressively reducing the gap between elements to be compared. Starting with far apart elements, it can move some out-of-place elements into position faster than a simple nearest neighbor exchange. Donald Shell published the first version of this sort in 1959.[4][5] The running time of Shellsort is heavily dependent on the gap sequence it uses. For many practical variants, determining their time complexity remains an open problem.</p>
+    </td></tr></table>
+
 ### Pseudocode
 ```pseudo
 # Sort an array a[0...n-1].
@@ -54,7 +61,7 @@ foreach (gap in gaps)
 }
 ```
 
-## Complexity of Oyelami Sort Algorithm
+## Oyelami Sort Algorithm
 ### Pseudocode
 ```pseudo
 Begin
@@ -71,7 +78,7 @@ end
 End
 ```
 
-## Complexity of Avi Sort Algorithm
+## Avi Sort Algorithm
 ### Pseudocode
 ```pseudo
 Avi_Sort (A, N)
