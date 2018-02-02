@@ -11,9 +11,9 @@ public class Executor {
 			System.out.println("Data before sorted :");
 			System.out.println(value);
 			long startTime = System.nanoTime();    
-			SortingCollection.pancakeSort(value);
+			//SortingCollection.pancakeSort(value);
 			//SortingCollection.shellSort(value);
-			//SortingCollection.oyelamiSort(value, value.size());
+			SortingCollection.oyelamiSort(value, value.size());
 			//SortingCollection.aviSort(value);
 			long endTime = System.nanoTime();
 			long estimatedTime = (endTime - startTime);
@@ -21,7 +21,8 @@ public class Executor {
 			System.out.println(value);
 			System.out.println("Execution Time : ");
 			System.out.println("- " + estimatedTime + " nanoseconds");
-			System.out.println("- " + (estimatedTime / 1000000.0) + " milliseconds");
-			
+			double milliseconds=(estimatedTime / 1000000.0);
+			System.out.println("- " + milliseconds + " milliseconds");
+			System.out.println("- " + ((milliseconds / 1000) % 60) + " seconds");
 	    }
 }
