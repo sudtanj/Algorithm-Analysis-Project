@@ -11,6 +11,7 @@ import java.util.LinkedList;
 public class Executor {
 	 static LinkedList<Integer> value = new LinkedList<Integer>();
 	 static PrintStream outone = null;
+	 static String sortName = "Avi Sort";
 
 	    public static void main(String[] args){
 	    	listFilesAndFolders("test_case");
@@ -20,6 +21,8 @@ public class Executor {
 	    }
 	    
 	    public static void execute() {
+	    	System.out.println("Sort Algorithm Name : "+sortName);
+	    	System.out.println("Data Before Sorted :");
 	    	System.out.println(value);
 			long startTime = System.nanoTime();
 			//SortingCollection.pancakeSort(value);
