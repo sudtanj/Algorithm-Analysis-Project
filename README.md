@@ -10,10 +10,16 @@ Algorithm Analysis Project at Universitas Pelita Harapan
 | 4. | <img src="https://avatars.githubusercontent.com/sudtanj" width=100 height=100/> | Sudono Tanjung | <a title="@sudtanj" href="https://github.com/sudtanj">@sudtanj</a> |              				 00000012273 |
 
 ## Paper Report
-<a href="https://goo.gl/QAYD3y"><img src="https://www.orrasis.com/img/google/docs.png" width="100" height="100"/></a>
-<a href="https://goo.gl/dMpUWG"><img src="http://clickhowto.com/wp-content/uploads/2017/10/Compatibility_Adobe_PDF_Logo.jpg" width="100" height="100"/></a>
+<a href="https://goo.gl/fjaodJ"><img src="https://www.orrasis.com/img/google/docs.png" width="100" height="100"/></a>
+<a href="https://goo.gl/BDAA6V"><img src="http://clickhowto.com/wp-content/uploads/2017/10/Compatibility_Adobe_PDF_Logo.jpg" width="100" height="100"/></a>
 
-## Complexity of Pancake Sort Algorithm
+## Pancake Sort Algorithm
+<table border="0"><tr><td width=300>
+<img src="https://rosettacode.org/mw/images/c/ce/Pancake.gif" width="300" height="300"/></td>
+    <td>
+<p align="justify"> &emsp; Pancake sorting is the colloquial term for the mathematical problem of sorting a disordered stack of pancakes in order of size when a spatula can be inserted at any point in the stack and used to flip all pancakes above it. A pancake number is the minimum number of flips required for a given number of pancakes. In this form, the problem was first discussed by American geometer Jacob E. Goodman. It is a variation of the sorting problem in which the only allowed operation is to reverse the elements of some prefix of the sequence. Unlike a traditional sorting algorithm, which attempts to sort with the fewest comparisons possible, the goal is to sort the sequence in as few reversals as possible. A variant of the problem is concerned with burnt pancakes, where each pancake has a burnt side and all pancakes must, in addition, end up with the burnt side on bottom.</p> 
+    </td></tr></table>
+
 ### Pseudocode
 ```pseudo
 PancakeFlipper(A[1 · · n])
@@ -24,7 +30,13 @@ Flip(A[1 · · n])
 PancakeFlipper(1 · · n − 1)
 ```
 
-## Complexity of Shell Sort Algorithm
+## Shell Sort Algorithm
+<table border="0"><tr><td width=300>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Sorting_shellsort_anim.gif" width="300" height="300"/></td>
+    <td>
+<p align="justify"> &emsp; Shellsort, also known as Shell sort or Shell's method, is an in-place comparison sort. It can be seen as either a generalization of sorting by exchange (bubble sort) or sorting by insertion (insertion sort). The method starts by sorting pairs of elements far apart from each other, then progressively reducing the gap between elements to be compared. Starting with far apart elements, it can move some out-of-place elements into position faster than a simple nearest neighbor exchange. Donald Shell published the first version of this sort in 1959. The running time of Shellsort is heavily dependent on the gap sequence it uses. For many practical variants, determining their time complexity remains an open problem.</p>
+    </td></tr></table>
+
 ### Pseudocode
 ```pseudo
 # Sort an array a[0...n-1].
@@ -52,7 +64,17 @@ foreach (gap in gaps)
 }
 ```
 
-## Complexity of Oyelami Sort Algorithm
+### Worst-case performance
+- O(n<sup>2</sup>) (worst known gap sequence)
+- O(n log<sup>2</sup>n) (best known gap sequence)
+
+## Best-case performance
+- O(n log n)
+
+## Average performance
+- depends on gap sequence
+
+## Oyelami Sort Algorithm
 ### Pseudocode
 ```pseudo
 Begin
@@ -69,7 +91,7 @@ end
 End
 ```
 
-## Complexity of Avi Sort Algorithm
+## Avi Sort Algorithm
 ### Pseudocode
 ```pseudo
 Avi_Sort (A, N)
