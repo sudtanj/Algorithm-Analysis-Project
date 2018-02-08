@@ -1,0 +1,10 @@
+File Name :caseA#_1.in
+Sort Algorithm Name : Oyelami_Sort
+Data Before Sorted :
+[53, 21, 41, 57, 56, 18, 57, 1]
+Data after sorted :
+[1, 18, 21, 41, 53, 56, 57, 57]
+Execution Time : 
+- 724502 nanoseconds
+- 0.724502 milliseconds
+- 7.24502E-4 seconds

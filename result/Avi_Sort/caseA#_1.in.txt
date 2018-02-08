@@ -1,0 +1,10 @@
+File Name :caseA#_1.in
+Sort Algorithm Name : Avi_Sort
+Data Before Sorted :
+[53, 21, 41, 57, 56, 18, 57, 1]
+Data after sorted :
+[1, 18, 21, 41, 53, 56, 57, 57]
+Execution Time : 
+- 797837 nanoseconds
+- 0.797837 milliseconds
+- 7.97837E-4 seconds

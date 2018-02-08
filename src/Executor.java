@@ -11,7 +11,7 @@ import java.util.LinkedList;
 public class Executor {
 	 static LinkedList<Integer> value = new LinkedList<Integer>();
 	 static PrintStream outone = null;
-	 static String sortName = "Avi Sort";
+	 static String sortName = "Oyelami_Sort";
 
 	    public static void main(String[] args){
 	    	listFilesAndFolders("test_case");
@@ -27,8 +27,8 @@ public class Executor {
 			long startTime = System.nanoTime();
 			//SortingCollection.pancakeSort(value);
 			//SortingCollection.shellSort(value);
-			//SortingCollection.oyelamiSort(value, value.size());
-			SortingCollection.aviSort(value);
+			SortingCollection.oyelamiSort(value, value.size());
+			//SortingCollection.aviSort(value);
 			long endTime = System.nanoTime();
 			long estimatedTime = (endTime - startTime);
 			System.out.println("Data after sorted :");
@@ -48,7 +48,7 @@ public class Executor {
 	        for (File file : fList){
 	        	value.clear();
 	        	try {
-					outone=new PrintStream(new FileOutputStream("result/"+file.getName()+".txt"));
+					outone=new PrintStream(new FileOutputStream("result/"+sortName+"/"+file.getName()+".txt"));
 				} catch (FileNotFoundException e1) {
 					// TODO Auto-generated catch block
 					e1.printStackTrace();
