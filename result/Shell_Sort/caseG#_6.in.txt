@@ -1,0 +1,10 @@
+File Name :caseG#_6.in
+Sort Algorithm Name : Shell_Sort
+Data Before Sorted :
+[1, 1, 1, 1, 1, 1, 1, 1]
+Data after sorted :
+[1, 1, 1, 1, 1, 1, 1, 1]
+Execution Time : 
+- 1825 nanoseconds
+- 0.001825 milliseconds
+- 1.825E-6 seconds

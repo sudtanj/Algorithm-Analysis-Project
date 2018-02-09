@@ -1,0 +1,10 @@
+File Name :caseA#_8.in
+Sort Algorithm Name : Shell_Sort
+Data Before Sorted :
+[57, 33, 53, 33, 35, 33, 57, 53]
+Data after sorted :
+[33, 33, 33, 35, 53, 53, 57, 57]
+Execution Time : 
+- 1743 nanoseconds
+- 0.001743 milliseconds
+- 1.7429999999999999E-6 seconds

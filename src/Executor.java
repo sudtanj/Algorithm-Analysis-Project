@@ -6,12 +6,12 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintStream;
-import java.util.LinkedList;
+import java.util.ArrayList;
 
 public class Executor {
-	 static LinkedList<Integer> value = new LinkedList<Integer>();
+	 static ArrayList<Integer> value = new ArrayList<Integer>();
 	 static PrintStream outone = null;
-	 static String sortName = "Oyelami_Sort";
+	 static String sortName = "Shell_Sort";
 
 	    public static void main(String[] args){
 	    	listFilesAndFolders("test_case");
@@ -26,8 +26,8 @@ public class Executor {
 	    	System.out.println(value);
 			long startTime = System.nanoTime();
 			//SortingCollection.pancakeSort(value);
-			//SortingCollection.shellSort(value);
-			SortingCollection.oyelamiSort(value, value.size());
+			SortingCollection.shellSort(value);
+			//SortingCollection.oyelamiSort(value, value.size());
 			//SortingCollection.aviSort(value);
 			long endTime = System.nanoTime();
 			long estimatedTime = (endTime - startTime);
@@ -37,7 +37,7 @@ public class Executor {
 			System.out.println("- " + estimatedTime + " nanoseconds");
 			double milliseconds=(estimatedTime / 1000000.0);
 			System.out.println("- " + milliseconds + " milliseconds");
-			System.out.println("- " + (double)((milliseconds / 1000) % 60) + " seconds");
+			System.out.println("- " + (double)((milliseconds / 1000)) + " seconds");
 			
 	    }
 	    
@@ -87,7 +87,6 @@ public class Executor {
 				}
 	        	execute();
 	            //System.out.println(file.getName());
-	        	break;
 	        }
 	    }
 }

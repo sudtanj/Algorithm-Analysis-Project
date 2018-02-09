@@ -1,0 +1,10 @@
+File Name :caseD#1_6.in
+Sort Algorithm Name : Shell_Sort
+Data Before Sorted :
+[21, 31, 73, 81, 99, 113, 117, 197, 219, 225, 227, 231, 232, 45, 113, 191]
+Data after sorted :
+[21, 31, 45, 73, 81, 99, 113, 113, 117, 191, 197, 219, 225, 227, 231, 232]
+Execution Time : 
+- 1814 nanoseconds
+- 0.001814 milliseconds
+- 1.8140000000000001E-6 seconds

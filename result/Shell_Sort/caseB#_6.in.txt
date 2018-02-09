@@ -1,0 +1,10 @@
+File Name :caseB#_6.in
+Sort Algorithm Name : Shell_Sort
+Data Before Sorted :
+[1, 4, 9, 14, 25, 29, 53, 54]
+Data after sorted :
+[1, 4, 9, 14, 25, 29, 53, 54]
+Execution Time : 
+- 1362 nanoseconds
+- 0.001362 milliseconds
+- 1.3619999999999998E-6 seconds

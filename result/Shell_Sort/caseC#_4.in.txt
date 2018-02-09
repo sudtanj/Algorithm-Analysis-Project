@@ -1,0 +1,10 @@
+File Name :caseC#_4.in
+Sort Algorithm Name : Shell_Sort
+Data Before Sorted :
+[56, 42, 39, 32, 20, 18, 15, 5]
+Data after sorted :
+[5, 15, 18, 20, 32, 39, 42, 56]
+Execution Time : 
+- 1789 nanoseconds
+- 0.001789 milliseconds
+- 1.789E-6 seconds

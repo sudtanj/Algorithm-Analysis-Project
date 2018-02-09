@@ -1,0 +1,10 @@
+File Name :caseE#1_3.in
+Sort Algorithm Name : Shell_Sort
+Data Before Sorted :
+[3, 7, 53, 63, 65, 79, 117, 129, 130, 131, 139, 158, 178, 246, 134, 149]
+Data after sorted :
+[3, 7, 53, 63, 65, 79, 117, 129, 130, 131, 134, 139, 149, 158, 178, 246]
+Execution Time : 
+- 1767 nanoseconds
+- 0.001767 milliseconds
+- 1.767E-6 seconds

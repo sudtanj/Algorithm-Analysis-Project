@@ -1,0 +1,10 @@
+File Name :caseE#_9.in
+Sort Algorithm Name : Shell_Sort
+Data Before Sorted :
+[5, 29, 33, 37, 43, 45, 47, 61]
+Data after sorted :
+[5, 29, 33, 37, 43, 45, 47, 61]
+Execution Time : 
+- 1645 nanoseconds
+- 0.001645 milliseconds
+- 1.645E-6 seconds

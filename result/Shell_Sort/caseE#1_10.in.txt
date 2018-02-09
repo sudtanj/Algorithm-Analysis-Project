@@ -1,0 +1,10 @@
+File Name :caseE#1_10.in
+Sort Algorithm Name : Shell_Sort
+Data Before Sorted :
+[17, 25, 49, 53, 61, 63, 167, 174, 204, 213, 232, 234, 235, 248, 125, 17]
+Data after sorted :
+[17, 17, 25, 49, 53, 61, 63, 125, 167, 174, 204, 213, 232, 234, 235, 248]
+Execution Time : 
+- 1915 nanoseconds
+- 0.001915 milliseconds
+- 1.915E-6 seconds
