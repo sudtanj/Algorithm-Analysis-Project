@@ -1,0 +1,11 @@
+File Name :caseB#1_3.in
+Sort Algorithm Name : Shell_Sort
+Total of data : 16
+Data Before Sorted :
+[1, 21, 24, 25, 41, 95, 104, 118, 148, 191, 197, 199, 211, 218, 225, 235]
+Data after sorted :
+[1, 21, 24, 25, 41, 95, 104, 118, 148, 191, 197, 199, 211, 218, 225, 235]
+Execution Time : 
+- 1844 nanoseconds
+- 0.001844 milliseconds
+- 1.8439999999999998E-6 seconds
