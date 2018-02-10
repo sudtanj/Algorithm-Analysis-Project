@@ -9,9 +9,13 @@ Algorithm Analysis Project at Universitas Pelita Harapan
 | 3. | <img src="https://avatars.githubusercontent.com/rickhenhermawan" width=100 height=100/> | Rickhen Hermawan | <a title="@rickhenhermawan" href="https://github.com/rickhenhermawan">@rickhenhermawan</a> |           00000012311 |
 | 4. | <img src="https://avatars.githubusercontent.com/sudtanj" width=100 height=100/> | Sudono Tanjung | <a title="@sudtanj" href="https://github.com/sudtanj">@sudtanj</a> |              				 00000012273 |
 
-## Paper Report
+## Report
+
+### Paper
 <a href="https://goo.gl/fjaodJ"><img src="https://www.orrasis.com/img/google/docs.png" width="100" height="100"/></a>
 <a href="https://goo.gl/BDAA6V"><img src="http://clickhowto.com/wp-content/uploads/2017/10/Compatibility_Adobe_PDF_Logo.jpg" width="100" height="100"/></a>
+
+### Computer spec for testing purpose
 
 ## Pancake Sort Algorithm
 <table border="0"><tr><td width=300>
