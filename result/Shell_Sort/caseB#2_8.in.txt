@@ -1,10 +1,11 @@
 File Name :caseB#2_8.in
 Sort Algorithm Name : Shell_Sort
+Total of data : 32
 Data Before Sorted :
 [21, 72, 81, 109, 131, 132, 163, 179, 208, 217, 233, 249, 269, 293, 327, 385, 441, 505, 533, 537, 721, 727, 737, 749, 761, 801, 823, 881, 898, 941, 965, 993]
 Data after sorted :
 [21, 72, 81, 109, 131, 132, 163, 179, 208, 217, 233, 249, 269, 293, 327, 385, 441, 505, 533, 537, 721, 727, 737, 749, 761, 801, 823, 881, 898, 941, 965, 993]
 Execution Time : 
-- 2106 nanoseconds
-- 0.002106 milliseconds
-- 2.106E-6 seconds
+- 1895 nanoseconds
+- 0.001895 milliseconds
+- 1.895E-6 seconds

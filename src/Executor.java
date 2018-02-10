@@ -11,7 +11,7 @@ import java.util.ArrayList;
 public class Executor {
 	 static ArrayList<Integer> value = new ArrayList<Integer>();
 	 static PrintStream outone = null;
-	 static String sortName = "Shell_Sort";
+	 static String sortName = "Avi_Sort";
 
 	    public static void main(String[] args){
 	    	listFilesAndFolders("test_case");
@@ -22,13 +22,14 @@ public class Executor {
 	    
 	    public static void execute() {
 	    	System.out.println("Sort Algorithm Name : "+sortName);
+	    	System.out.println("Total of data : "+value.size());
 	    	System.out.println("Data Before Sorted :");
 	    	System.out.println(value);
 			long startTime = System.nanoTime();
 			//SortingCollection.pancakeSort(value);
-			SortingCollection.shellSort(value);
+			//SortingCollection.shellSort(value);
 			//SortingCollection.oyelamiSort(value, value.size());
-			//SortingCollection.aviSort(value);
+			SortingCollection.aviSort(value);
 			long endTime = System.nanoTime();
 			long estimatedTime = (endTime - startTime);
 			System.out.println("Data after sorted :");

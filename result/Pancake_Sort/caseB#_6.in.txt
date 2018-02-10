@@ -1,0 +1,11 @@
+File Name :caseB#_6.in
+Sort Algorithm Name : Pancake_Sort
+Total of data : 8
+Data Before Sorted :
+[1, 4, 9, 14, 25, 29, 53, 54]
+Data after sorted :
+[1, 4, 9, 14, 25, 29, 53, 54]
+Execution Time : 
+- 1289 nanoseconds
+- 0.001289 milliseconds
+- 1.289E-6 seconds

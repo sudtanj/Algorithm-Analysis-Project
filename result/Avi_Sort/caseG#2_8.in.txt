@@ -1,0 +1,11 @@
+File Name :caseG#2_8.in
+Sort Algorithm Name : Avi_Sort
+Total of data : 32
+Data Before Sorted :
+[2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+Data after sorted :
+[2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+Execution Time : 
+- 1592876 nanoseconds
+- 1.592876 milliseconds
+- 0.001592876 seconds

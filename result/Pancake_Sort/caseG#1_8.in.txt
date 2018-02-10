@@ -1,0 +1,11 @@
+File Name :caseG#1_8.in
+Sort Algorithm Name : Pancake_Sort
+Total of data : 16
+Data Before Sorted :
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Data after sorted :
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Execution Time : 
+- 2282 nanoseconds
+- 0.002282 milliseconds
+- 2.2820000000000003E-6 seconds

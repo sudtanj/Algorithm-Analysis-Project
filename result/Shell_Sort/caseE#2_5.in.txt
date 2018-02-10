@@ -1,10 +1,11 @@
 File Name :caseE#2_5.in
 Sort Algorithm Name : Shell_Sort
+Total of data : 32
 Data Before Sorted :
 [1, 27, 31, 33, 47, 84, 100, 193, 205, 217, 221, 226, 261, 280, 294, 425, 503, 577, 622, 629, 646, 800, 905, 924, 936, 961, 996, 1009, 1019, 120, 429, 493]
 Data after sorted :
 [1, 27, 31, 33, 47, 84, 100, 120, 193, 205, 217, 221, 226, 261, 280, 294, 425, 429, 493, 503, 577, 622, 629, 646, 800, 905, 924, 936, 961, 996, 1009, 1019]
 Execution Time : 
-- 2344 nanoseconds
-- 0.002344 milliseconds
-- 2.3440000000000003E-6 seconds
+- 2290 nanoseconds
+- 0.00229 milliseconds
+- 2.29E-6 seconds

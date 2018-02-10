@@ -1,10 +1,11 @@
 File Name :caseD#1_10.in
 Sort Algorithm Name : Shell_Sort
+Total of data : 16
 Data Before Sorted :
 [23, 31, 33, 75, 83, 97, 124, 163, 169, 177, 201, 203, 236, 213, 86, 33]
 Data after sorted :
 [23, 31, 33, 33, 75, 83, 86, 97, 124, 163, 169, 177, 201, 203, 213, 236]
 Execution Time : 
-- 2637 nanoseconds
-- 0.002637 milliseconds
-- 2.637E-6 seconds
+- 1806 nanoseconds
+- 0.001806 milliseconds
+- 1.8060000000000002E-6 seconds

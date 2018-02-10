@@ -1,10 +1,11 @@
 File Name :caseB#_9.in
 Sort Algorithm Name : Shell_Sort
+Total of data : 8
 Data Before Sorted :
 [4, 7, 29, 35, 41, 49, 56, 57]
 Data after sorted :
 [4, 7, 29, 35, 41, 49, 56, 57]
 Execution Time : 
-- 1814 nanoseconds
-- 0.001814 milliseconds
-- 1.8140000000000001E-6 seconds
+- 1718 nanoseconds
+- 0.001718 milliseconds
+- 1.718E-6 seconds

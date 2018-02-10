@@ -1,0 +1,11 @@
+File Name :caseC#1_2.in
+Sort Algorithm Name : Avi_Sort
+Total of data : 16
+Data Before Sorted :
+[245, 225, 205, 181, 178, 171, 170, 145, 85, 81, 66, 63, 47, 21, 12, 1]
+Data after sorted :
+[1, 12, 21, 47, 63, 66, 81, 85, 145, 170, 171, 178, 181, 205, 225, 245]
+Execution Time : 
+- 3680 nanoseconds
+- 0.00368 milliseconds
+- 3.68E-6 seconds

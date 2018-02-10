@@ -1,0 +1,11 @@
+File Name :caseF#1_8.in
+Sort Algorithm Name : Avi_Sort
+Total of data : 16
+Data Before Sorted :
+[1, 4, 1, 4, 2, 2, 1, 1, 2, 3, 1, 1, 2, 3, 3, 1]
+Data after sorted :
+[1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 4, 4]
+Execution Time : 
+- 3480 nanoseconds
+- 0.00348 milliseconds
+- 3.48E-6 seconds

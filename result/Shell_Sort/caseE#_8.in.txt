@@ -1,10 +1,11 @@
 File Name :caseE#_8.in
 Sort Algorithm Name : Shell_Sort
+Total of data : 8
 Data Before Sorted :
 [3, 14, 25, 31, 36, 49, 53, 7]
 Data after sorted :
 [3, 7, 14, 25, 31, 36, 49, 53]
 Execution Time : 
-- 1961 nanoseconds
-- 0.001961 milliseconds
-- 1.961E-6 seconds
+- 1489 nanoseconds
+- 0.001489 milliseconds
+- 1.489E-6 seconds

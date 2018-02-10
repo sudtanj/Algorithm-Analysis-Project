@@ -1,10 +1,11 @@
 File Name :caseF#_8.in
 Sort Algorithm Name : Shell_Sort
+Total of data : 8
 Data Before Sorted :
 [2, 1, 1, 1, 1, 1, 2, 1]
 Data after sorted :
 [1, 1, 1, 1, 1, 1, 2, 2]
 Execution Time : 
-- 2072 nanoseconds
-- 0.002072 milliseconds
-- 2.0720000000000002E-6 seconds
+- 1448 nanoseconds
+- 0.001448 milliseconds
+- 1.4480000000000002E-6 seconds

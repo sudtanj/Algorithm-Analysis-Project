@@ -1,0 +1,11 @@
+File Name :caseC#_9.in
+Sort Algorithm Name : Pancake_Sort
+Total of data : 8
+Data Before Sorted :
+[49, 47, 43, 35, 33, 23, 21, 4]
+Data after sorted :
+[4, 21, 23, 33, 35, 43, 47, 49]
+Execution Time : 
+- 1501 nanoseconds
+- 0.001501 milliseconds
+- 1.501E-6 seconds

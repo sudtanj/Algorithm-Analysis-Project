@@ -1,0 +1,11 @@
+File Name :caseA#1_3.in
+Sort Algorithm Name : Avi_Sort
+Total of data : 16
+Data Before Sorted :
+[139, 81, 169, 128, 185, 190, 94, 5, 140, 178, 251, 177, 36, 209, 223, 169]
+Data after sorted :
+[5, 36, 81, 94, 128, 139, 140, 169, 169, 177, 178, 185, 190, 209, 223, 251]
+Execution Time : 
+- 3577 nanoseconds
+- 0.003577 milliseconds
+- 3.577E-6 seconds

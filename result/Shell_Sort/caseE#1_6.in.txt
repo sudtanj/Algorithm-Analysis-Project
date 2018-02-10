@@ -1,10 +1,11 @@
 File Name :caseE#1_6.in
 Sort Algorithm Name : Shell_Sort
+Total of data : 16
 Data Before Sorted :
 [18, 27, 83, 96, 105, 111, 132, 140, 149, 201, 209, 226, 233, 237, 229, 90]
 Data after sorted :
 [18, 27, 83, 90, 96, 105, 111, 132, 140, 149, 201, 209, 226, 229, 233, 237]
 Execution Time : 
-- 1824 nanoseconds
-- 0.001824 milliseconds
-- 1.824E-6 seconds
+- 1827 nanoseconds
+- 0.001827 milliseconds
+- 1.827E-6 seconds

@@ -1,0 +1,11 @@
+File Name :caseA#1_10.in
+Sort Algorithm Name : Pancake_Sort
+Total of data : 16
+Data Before Sorted :
+[243, 19, 253, 161, 43, 129, 61, 129, 147, 171, 179, 253, 181, 73, 110, 81]
+Data after sorted :
+[19, 43, 61, 73, 81, 110, 129, 129, 147, 161, 171, 179, 181, 243, 253, 253]
+Execution Time : 
+- 2785 nanoseconds
+- 0.002785 milliseconds
+- 2.785E-6 seconds

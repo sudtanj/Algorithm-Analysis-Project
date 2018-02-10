@@ -1,0 +1,11 @@
+File Name :caseG#_5.in
+Sort Algorithm Name : Avi_Sort
+Total of data : 8
+Data Before Sorted :
+[1, 1, 1, 1, 1, 1, 1, 1]
+Data after sorted :
+[1, 1, 1, 1, 1, 1, 1, 1]
+Execution Time : 
+- 2535 nanoseconds
+- 0.002535 milliseconds
+- 2.535E-6 seconds

@@ -1,0 +1,11 @@
+File Name :caseC#_10.in
+Sort Algorithm Name : Avi_Sort
+Total of data : 8
+Data Before Sorted :
+[60, 58, 51, 47, 46, 45, 24, 23]
+Data after sorted :
+[23, 24, 45, 46, 47, 51, 58, 60]
+Execution Time : 
+- 3408 nanoseconds
+- 0.003408 milliseconds
+- 3.408E-6 seconds

@@ -1,10 +1,11 @@
 File Name :caseC#_8.in
 Sort Algorithm Name : Shell_Sort
+Total of data : 8
 Data Before Sorted :
 [42, 32, 29, 19, 12, 9, 5, 1]
 Data after sorted :
 [1, 5, 9, 12, 19, 29, 32, 42]
 Execution Time : 
-- 1764 nanoseconds
-- 0.001764 milliseconds
-- 1.764E-6 seconds
+- 1570 nanoseconds
+- 0.00157 milliseconds
+- 1.57E-6 seconds

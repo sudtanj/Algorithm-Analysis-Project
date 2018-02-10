@@ -1,0 +1,11 @@
+File Name :caseG#_5.in
+Sort Algorithm Name : Pancake_Sort
+Total of data : 8
+Data Before Sorted :
+[1, 1, 1, 1, 1, 1, 1, 1]
+Data after sorted :
+[1, 1, 1, 1, 1, 1, 1, 1]
+Execution Time : 
+- 4539 nanoseconds
+- 0.004539 milliseconds
+- 4.538999999999999E-6 seconds

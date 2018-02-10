@@ -1,0 +1,11 @@
+File Name :caseD#_4.in
+Sort Algorithm Name : Avi_Sort
+Total of data : 8
+Data Before Sorted :
+[8, 18, 45, 49, 53, 29, 1, 48]
+Data after sorted :
+[1, 8, 18, 29, 45, 48, 49, 53]
+Execution Time : 
+- 2036 nanoseconds
+- 0.002036 milliseconds
+- 2.036E-6 seconds
