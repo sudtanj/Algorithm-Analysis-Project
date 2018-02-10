@@ -1,0 +1,11 @@
+File Name :caseC#1_3.in
+Sort Algorithm Name : Shell_Sort
+Total of data : 16
+Data Before Sorted :
+[230, 222, 221, 210, 205, 196, 193, 185, 113, 89, 85, 81, 46, 25, 12, 1]
+Data after sorted :
+[1, 12, 25, 46, 81, 85, 89, 113, 185, 193, 196, 205, 210, 221, 222, 230]
+Execution Time : 
+- 1738 nanoseconds
+- 0.001738 milliseconds
+- 1.738E-6 seconds

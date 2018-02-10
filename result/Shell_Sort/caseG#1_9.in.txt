@@ -1,0 +1,11 @@
+File Name :caseG#1_9.in
+Sort Algorithm Name : Shell_Sort
+Total of data : 16
+Data Before Sorted :
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Data after sorted :
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Execution Time : 
+- 2368 nanoseconds
+- 0.002368 milliseconds
+- 2.368E-6 seconds
