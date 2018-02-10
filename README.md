@@ -16,7 +16,12 @@ Algorithm Analysis Project at Universitas Pelita Harapan
 <a href="https://goo.gl/BDAA6V"><img src="http://clickhowto.com/wp-content/uploads/2017/10/Compatibility_Adobe_PDF_Logo.jpg" width="100" height="100"/></a>
 
 ### Computer spec for testing purpose
-
+```
+Cpu     = Intel(R) Xeon(R) CPU @ 2.30GHz
+Core    = 4 
+Ram     = 512 MB
+Storage = 2 GB
+```
 ## Pancake Sort Algorithm
 <table border="0"><tr><td width=300>
 <img src="https://rosettacode.org/mw/images/c/ce/Pancake.gif" width="300" height="300"/></td>
