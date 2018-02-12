@@ -1,0 +1,11 @@
+File Name :caseB#1_10.in
+Sort Algorithm Name : Oyelami_Sort
+Total of data : 16
+Data Before Sorted :
+[11, 25, 41, 67, 81, 82, 89, 92, 107, 141, 159, 165, 179, 185, 189, 209]
+Data after sorted :
+[11, 25, 41, 67, 81, 82, 89, 92, 107, 141, 159, 165, 179, 185, 189, 209]
+Execution Time : 
+- 3646 nanoseconds
+- 0.003646 milliseconds
+- 3.646E-6 seconds

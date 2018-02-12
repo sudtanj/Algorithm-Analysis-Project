@@ -1,0 +1,11 @@
+File Name :caseB#_8.in
+Sort Algorithm Name : Oyelami_Sort
+Total of data : 8
+Data Before Sorted :
+[1, 9, 23, 45, 49, 58, 60, 63]
+Data after sorted :
+[1, 9, 23, 45, 49, 58, 60, 63]
+Execution Time : 
+- 2553 nanoseconds
+- 0.002553 milliseconds
+- 2.553E-6 seconds

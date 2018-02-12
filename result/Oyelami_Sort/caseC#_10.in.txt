@@ -1,0 +1,11 @@
+File Name :caseC#_10.in
+Sort Algorithm Name : Oyelami_Sort
+Total of data : 8
+Data Before Sorted :
+[60, 58, 51, 47, 46, 45, 24, 23]
+Data after sorted :
+[23, 24, 45, 46, 47, 51, 58, 60]
+Execution Time : 
+- 1094 nanoseconds
+- 0.001094 milliseconds
+- 1.0939999999999998E-6 seconds

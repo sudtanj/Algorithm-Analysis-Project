@@ -1,0 +1,11 @@
+File Name :caseF#_6.in
+Sort Algorithm Name : Oyelami_Sort
+Total of data : 8
+Data Before Sorted :
+[1, 1, 2, 1, 1, 1, 1, 1]
+Data after sorted :
+[1, 1, 1, 1, 1, 1, 1, 2]
+Execution Time : 
+- 1458 nanoseconds
+- 0.001458 milliseconds
+- 1.458E-6 seconds

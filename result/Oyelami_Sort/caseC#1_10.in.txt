@@ -1,0 +1,11 @@
+File Name :caseC#1_10.in
+Sort Algorithm Name : Oyelami_Sort
+Total of data : 16
+Data Before Sorted :
+[242, 241, 229, 221, 197, 189, 177, 141, 124, 103, 49, 33, 29, 27, 22, 9]
+Data after sorted :
+[9, 22, 27, 29, 33, 49, 103, 124, 141, 177, 189, 197, 221, 229, 241, 242]
+Execution Time : 
+- 2553 nanoseconds
+- 0.002553 milliseconds
+- 2.553E-6 seconds
