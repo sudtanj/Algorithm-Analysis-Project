@@ -90,6 +90,24 @@ foreach (gap in gaps)
 <img src="./result/result_in_chart_HD/Shell_Sort_300_DPI.png" width="1000" height="500"/>
 
 ## Oyelami Sort Algorithm
+<table border="0"><tr><td width=300>
+<img src="./algorithm_animation/oyelami.gif" width="300" height="300"/></td>
+    <td>
+<p align="justify"> &emsp; Sorting involves rearranging information into either ascending or descending order. There are many
+sorting algorithms, among which is Bubble Sort. Bubble Sort is not known to be a very good sorting
+algorithm because it is beset with redundant comparisons. However, efforts have been made to
+improve the performance of the algorithm. With Bidirectional Bubble Sort, the average number of
+comparisons is slightly reduced and Batcher’s Sort similar to Shellsort also performs significantly
+better than Bidirectional Bubble Sort by carrying out comparisons in a novel way so that no
+propagation of exchanges is necessary. Bitonic Sort was also presented by Batcher and the strong
+point of this sorting procedure is that it is very suitable for a hard-wired implementation using a sorting
+network. This paper presents a meta algorithm called Oyelami’s Sort that combines the technique of
+Bidirectional Bubble Sort with a modified diminishing increment sorting. The results from the
+implementation of the algorithm compared with Batcher’s Odd-Even Sort and Batcher’s Bitonic Sort
+showed that the algorithm performed better than the two in the worst case scenario. The implication is
+that the algorithm is faster.</p> 
+    </td></tr></table>
+
 ### Pseudocode
 ```pseudo
 Begin
