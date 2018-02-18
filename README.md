@@ -87,7 +87,7 @@ foreach (gap in gaps)
 - depends on gap sequence
 
 ### Chart Result
-<img src="./result/result_in_chart_HD/Oyelami_Sort_300_DPI.png" width="1000" height="500"/>
+<img src="./result/result_in_chart_HD/Shell_Sort_300_DPI.png" width="1000" height="500"/>
 
 ## Oyelami Sort Algorithm
 ### Pseudocode
@@ -105,6 +105,9 @@ end
 7. Bidirectional Bubble Sort (A, size:int)
 End
 ```
+
+### Chart Result
+<img src="./result/result_in_chart_HD/Oyelami_Sort_300_DPI.png" width="1000" height="500"/>
 
 ## Avi Sort Algorithm
 ### Pseudocode
@@ -126,3 +129,5 @@ A[j] ↔ A [j+1]
 Step 5 Exit
 Fig.
 ```
+### Chart Result
+<img src="./result/result_in_chart_HD/Avi_Sort_300_DPI.png" width="1000" height="500"/>
