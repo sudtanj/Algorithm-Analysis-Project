@@ -9,7 +9,7 @@ Algorithm Analysis Project at Universitas Pelita Harapan
 | 3. | <img src="https://avatars.githubusercontent.com/rickhenhermawan" width=100 height=100/> | Rickhen Hermawan | <a title="@rickhenhermawan" href="https://github.com/rickhenhermawan">@rickhenhermawan</a> |           00000012311 |
 | 4. | <img src="https://avatars.githubusercontent.com/sudtanj" width=100 height=100/> | Sudono Tanjung | <a title="@sudtanj" href="https://github.com/sudtanj">@sudtanj</a> |              				 00000012273 |
 
-## Report
+## Report Document
 
 ### Paper
 <a href="https://goo.gl/fjaodJ"><img src="https://www.orrasis.com/img/google/docs.png" width="100" height="100"/></a>
@@ -25,6 +25,10 @@ Core    = 4
 Ram     = 512 MB
 Storage = 2 GB
 ```
+
+## Summary Of Algorithms Performance
+<img src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSgupUVVjq-4JxvbEpIkjXbonw2qpxtKtpSkYSri5iue5Qq0T_BRf-PjrGJslfYkoegxUVRKOOcU0ei/pubchart?oid=2000530860&format=image" width="1000" height="500"/>
+
 ## Pancake Sort Algorithm
 <table border="0"><tr><td width=300>
 <img src="https://rosettacode.org/mw/images/c/ce/Pancake.gif" width="300" height="300"/></td>
