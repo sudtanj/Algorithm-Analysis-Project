@@ -135,6 +135,21 @@ End
 <img src="./result/result_in_chart_HD/Oyelami_Sort_300_DPI.png" width="1000" height="500"/>
 
 ## Avi Sort Algorithm
+<table border="0"><tr><td width=300>
+<img src="./algorithm_animation/oyelami.gif" width="300" height="300"/></td>
+    <td>
+<p align="justify"> &emsp; In the case of rearranging an array with N elements
+either in ascending or in descending order. We find that, sorting
+algorithms such as the Bubble, Insertion and Selection Sort have
+a quadratic time complexity. In this paper, we introduce Avi sort
+– a new algorithm to sort an N elements array by exchanging
+their specific alternate position. We evaluate time complexity
+O(N2) of Avi sort theoretically and empirically. Our results show
+a one more different way to sort the data elements in quadratic
+time complexity and experimentally prove its actual time lies in
+between insertion and selection sort.</p> 
+    </td></tr></table>
+
 ### Pseudocode
 ```pseudo
 Avi_Sort (A, N)
@@ -154,5 +169,16 @@ A[j] ↔ A [j+1]
 Step 5 Exit
 Fig.
 ```
+
+### Worst-case performance
+- O(N<sup>2</sup>)
+- execution time lies in between selection and insertion sort
+
+### Best-case performance
+- O(N)
+
+### Average performance
+- Avi sort execution time is equal to insertion sort
+
 ### Chart Result
 <img src="./result/result_in_chart_HD/Avi_Sort_300_DPI.png" width="1000" height="500"/>
