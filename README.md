@@ -46,6 +46,15 @@ Flip(A[1 · · n])
 PancakeFlipper(1 · · n − 1)
 ```
 
+### Worst-case performance
+- Run Time (based on flips): O(n<sup>2</sup>)
+- Memory Required: O(n)
+
+### Best-case performance
+- Run Time (based on flips): O(n)
+- Memory Required: O(n)
+
+
 ### Chart Result
 <img src="./result/result_in_chart_HD/Pancake_Sort_300_DPI.png" width="1000" height="500"/>
 
@@ -182,3 +191,6 @@ Fig.
 
 ### Chart Result
 <img src="./result/result_in_chart_HD/Avi_Sort_300_DPI.png" width="1000" height="500"/>
+
+## Reference 
+- https://austingwalters.com/everyday-algorithms-pancake-sort/
