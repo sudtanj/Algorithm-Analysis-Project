@@ -136,7 +136,7 @@ End
 
 ## Avi Sort Algorithm
 <table border="0"><tr><td width=300>
-<img src="./algorithm_animation/oyelami.gif" width="300" height="300"/></td>
+<img src="./algorithm_animation/avi_sort.png" width="300" height="300"/></td>
     <td>
 <p align="justify"> &emsp; In the case of rearranging an array with N elements
 either in ascending or in descending order. We find that, sorting
