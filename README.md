@@ -140,6 +140,15 @@ end
 End
 ```
 
+### Worst-case performance
+- The worst-case occurs in a sorting algorithm when the elements to be sorted are in reverse order.
+
+### Best-case performance
+- The best-case occurs when the elements are already sorted.
+
+### Average performance
+- The average–case may occur when part of the elements are already sorted or data randomly distributed in the list. The average case may not be easy to determine in that it may not be apparent what constitutes an ‘average’ input.
+
 ### Chart Result
 <img src="./result/result_in_chart_HD/Oyelami_Sort_300_DPI.png" width="1000" height="500"/>
 
