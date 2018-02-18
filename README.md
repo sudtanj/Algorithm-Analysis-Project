@@ -80,11 +80,14 @@ foreach (gap in gaps)
 - O(n<sup>2</sup>) (worst known gap sequence)
 - O(n log<sup>2</sup>n) (best known gap sequence)
 
-## Best-case performance
+### Best-case performance
 - O(n log n)
 
-## Average performance
+### Average performance
 - depends on gap sequence
+
+### Chart Result
+<img src="./result/result_in_chart_HD/Oyelami_Sort_300_DPI.png" width="1000" height="500"/>
 
 ## Oyelami Sort Algorithm
 ### Pseudocode
