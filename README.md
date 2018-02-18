@@ -39,6 +39,9 @@ Flip(A[1 · · n])
 PancakeFlipper(1 · · n − 1)
 ```
 
+### Chart Result
+<img src="./result/result_in_chart_HD/Pancake_Sort_300_DPI.png" width="1000" height="500"/>
+
 ## Shell Sort Algorithm
 <table border="0"><tr><td width=300>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Sorting_shellsort_anim.gif" width="300" height="300"/></td>
